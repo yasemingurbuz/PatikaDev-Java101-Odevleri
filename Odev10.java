@@ -17,7 +17,7 @@ public class Odev10 {
 
         if(0<=mat && mat<=100
         && 0<=fizik && fizik<=100
-                && 0<=kimya && kimya<=100
+        && 0<=kimya && kimya<=100
         && 0<=turkce && turkce<=100
         && 0<=muzik && muzik<=100)
         {double avarage = (mat + turkce + fizik + kimya + muzik) / 5;
