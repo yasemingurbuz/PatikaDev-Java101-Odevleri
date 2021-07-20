@@ -66,6 +66,44 @@
 
 [Ödev 33 : recursive metotlar ile fibonacci](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/blob/main/Odev33.java)
 
+[Ödev 34 : Gelişmiş hesap makinası](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/blob/main/Odev34.java)
+
+[Ödev 35 : Recursive metod ile üslü sayı hesaplama](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/blob/main/Odev35.java)
+
+[Ödev 36 : Recursive metod ile sayının asal olup olmadığını bulma](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/blob/main/Odev36.java)
+
+[Ödev 37 : Recursive ile Desene göre method oluşturma](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/blob/main/Odev37.java)
+
+[Ödev 38 : Öğrenci Bilgi Sistemi](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/tree/main/OgrenciBilgiSistemi)
+
+[Ödev 39 : Boks Maçı](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/tree/main/BoksMac%C4%B1)
+
+[Ödev 40 : Maaş Hesabı](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/tree/main/MaasHesab%C4%B1)
+
+[Ödev 41 : Harmonik Ortalama](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/blob/main/Odev41.java)
+
+[Ödev 42 : Dizideki elemanların girilen sayıdan küçük en yakın sayıyı ve en büyük en yakın sayıyı bulan program](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/blob/main/Odev42.java)
+
+[Ödev 43 : Çok boyutlu diziler kullanılarak "yıldızlar" ile ekrana "A" harfi yazan program](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/blob/main/Odev43.java)
+
+[Ödev 44 : Dizideki Tekrar Eden Sayıları Bulan Program](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/blob/main/Odev44.java)
+
+[Ödev 45 : Dizideki elemanları küçükten büyüğe sıralayan program](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/blob/main/Odev45.java)
+
+[Ödev 46 : Dizideki Elemanların Frekansını Bulma](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/blob/main/Odev46.java)
+
+[Ödev 47 : Matrisin Transpozu](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/blob/main/Odev47.java)
+
+[Ödev 48: Sayı tahmini oyunu](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/blob/main/Odev48.java)
+
+[Ödev 49 : Palindromik kelimeler](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/blob/main/Odev49.java)
+
+[Ödev 50 : Mayın Tarlası](https://github.com/yasemingurbuz/PatikaDev-Java101-Odevleri/tree/main/May%C4%B1nTarlas%C4%B1)
+
+
+
+
+
 
 
 
